@@ -9,7 +9,7 @@ while(Month == "" ):
         print(f"The month of {Month} has 31 days.")
         break
     if Month in Months3:
-        print(f"The month of {Month} has 30 days")
+        print(f"The month of {Month} has 30 days.")
         break
     if Month in Months2:
         print(f"The month of {Month} has 28 days.")

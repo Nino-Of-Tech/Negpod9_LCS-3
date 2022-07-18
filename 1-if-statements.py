@@ -1,7 +1,7 @@
-#!usr/bin/python.3
+#!/usr/bin/python3
 m = int(input().strip())
 
-if m % 2 != 0:
+if m % 2 == 0:
     print("Weird")
 else:
     if m >= 2 and m <= 5:

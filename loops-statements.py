@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 Number = int(input('Enter the number: '))
 num = 0
 for num in range(Number+1):

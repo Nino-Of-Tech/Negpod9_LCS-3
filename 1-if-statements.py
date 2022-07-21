@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-m = int(input().strip())
+m = int(input("Enter the number: ").strip())
 
 if m % 2 == 0:
     print("Weird")

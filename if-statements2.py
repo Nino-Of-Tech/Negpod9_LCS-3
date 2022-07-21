@@ -4,7 +4,7 @@ Months2 = ['February']
 Months3 = ['April', 'June',  'September', 'December']
 Month = ""
 while(Month == "" ):
-    Month = input("Enter the month:")
+    Month = input("Enter the month: ")
     if Month in Months1:
         print(f"The month of {Month} has 31 days.")
         break
